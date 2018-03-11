@@ -1,0 +1,83 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+.komentarz{
+    padding: 50px;
+}
+
+tr{ padding: 0 10px 0 0; }
+.jumbotron{
+    padding: 10px;
+}
+.przyklad{
+    border: solid red;
+    
+   
+}
+.row{
+    border: solid pink;
+    padding: 0;
+}
+.kategoria{
+    border: solid blue;
+    height: 20%;
+    text-align: center;
+    
+}
+.formularz{
+    margin: 20px 300px 20px 300px;
+    padding: 10px 50px 10px 50px;
+    background-color: lightgray;
+}
+#sukces{
+    margin: 20px 300px 20px 300px;
+    font-size: 150%;
+}
+.wyszukiwanie-filtry{
+    border: solid black;
+    height: 100%;
+    width: 20%;
+    display:inline-block;
+    
+}
+.wyszukiwanie-aukcja{
+    border: solid red;
+    height: 15%;
+    width: 70%;
+    display:inline-block;
+}
+.wyszukiwanie-aukcja-obraz{
+    border: solid green;
+    height: 100%;
+    width: 20%;
+    display:inline-block;
+}
+.wyszukiwanie-aukcja-opis{
+    border: solid blueviolet;
+    height: 100%;
+    width: 79.5%;
+    display:inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
